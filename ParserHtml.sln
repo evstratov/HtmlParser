@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserHtml", "ParserHtml\ParserHtml.csproj", "{1CF659AE-409A-4961-BFF5-880E30C5A39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharp.Core", "AngleSharp-0.9.9.1\src\AngleSharp\AngleSharp.Core.csproj", "{91F78C48-287E-41B5-9E49-44D6E1E31290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF659AE-409A-4961-BFF5-880E30C5A39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF659AE-409A-4961-BFF5-880E30C5A39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF659AE-409A-4961-BFF5-880E30C5A39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF659AE-409A-4961-BFF5-880E30C5A39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F78C48-287E-41B5-9E49-44D6E1E31290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F78C48-287E-41B5-9E49-44D6E1E31290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F78C48-287E-41B5-9E49-44D6E1E31290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F78C48-287E-41B5-9E49-44D6E1E31290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

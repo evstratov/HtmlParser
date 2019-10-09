@@ -1,0 +1,11 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\bin\Debug\ParserHtml.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.csprojResolveAssemblyReference.cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.Form1.resources
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.Properties.Resources.resources
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.csproj.GenerateResource.Cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\bin\Debug\ParserHtml.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\bin\Debug\ParserHtml.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\bin\Debug\AngleSharp.dll
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\obj\Debug\ParserHtml.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\ParserHtml\ParserHtml\bin\Debug\AngleSharp.pdb
